@@ -6,7 +6,7 @@ MODEL_NAME = "llama3.2"
 
 # Presenton cloud API
 PRESENTON_URL = "https://api.presenton.ai/api/v1/ppt/presentation/generate"
-PRESENTON_API_KEY = "sk-presenton-4fa7d473862dafb4a6ba8d0272b7f658b14d22a3"
+PRESENTON_API_KEY = "API key to be added  of api.presentation.ai taht user will create"
 
 MAX_CHARS = 6000
 
