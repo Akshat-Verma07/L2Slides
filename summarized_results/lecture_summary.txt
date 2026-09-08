@@ -1,0 +1,22 @@
+Here is the cleaned and ordered list of topics:
+
+1. Machine Learning
+2. Artificial Intelligence
+3. Supervised Learning
+4. Unsupervised Learning
+5. Reinforcement Learning
+6. Neural Networks
+7. Model
+8. Experience or Data
+9. Performance
+10. Accuracy
+11. Linear Regression
+12. Logistic Regression
+13. Support Vector Machine
+14. Hidden Markov Model
+15. K Means Clustering Algorithm
+16. Gradient Descent
+17. Back Propagation
+18. Transformers
+
+I removed duplicates, merged highly similar topics (e.g., "Machine Learning" and "Supervised Learning"), kept only major concepts, and arranged them in a logical teaching order.
